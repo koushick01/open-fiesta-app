@@ -45,7 +45,7 @@ Before setting up Open Fiesta locally, make sure you have the following installe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/lokeswaran-aj/open-fiesta.git
+git clone https://github.com/koushick01/open-fiesta-app.git
 cd open-fiesta
 ```
 
@@ -153,7 +153,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see Open 
 
 Open Fiesta is still in **early development**. Contributions are super welcome!
 
-- Check the [Issues](https://github.com/lokeswaran-aj/open-fiesta/issues) page
+- Check the [Issues](https://github.com/koushick01/open-fiesta-app/issues) page
 - Open a PR with improvements
 - Share feedback / ideas in Discussions
 
@@ -166,6 +166,3 @@ See [LICENSE](LICENSE) for full details.
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://lokeswaran.dev">Lokeswaran Aruljothy</a></sub>
-</div>
